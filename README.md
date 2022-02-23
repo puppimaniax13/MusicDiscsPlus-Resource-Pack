@@ -2,7 +2,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/puppimaniax13/MusicDiscsPlus-Resource-Pack?color=pink&style=for-the-badge)]()[![File Size](https://img.shields.io/github/repo-size/puppimaniax13/MusicDiscsPlus-Resource-Pack?color=pink&style=for-the-badge)]()[![Most Recent Commit](https://img.shields.io/github/last-commit/puppimaniax13/MusicDiscsPlus-Resource-Pack?color=pink&style=for-the-badge)]()[![License](https://img.shields.io/github/license/puppimaniax13/MusicDiscsPlus-Remastered?color=pink&style=for-the-badge)](https://github.com/puppimaniax13/MusicDiscsPlus-Resource-Pack/blob/main/LICENSE)
 
-This mod will add a variety of music discs with songs provided by you! Resource pack dependant!
+This is the resource pack for the [**MusicDiscsPlus](https://github.com/puppimaniax13/MusicDiscsPlus-Remastered) mod by pupP!
 
 
 __________________________________________________________________________________________________________________
